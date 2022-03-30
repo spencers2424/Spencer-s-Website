@@ -10,7 +10,6 @@
 ![Screenshot (842)](https://user-images.githubusercontent.com/94345350/160938284-d5e2fab4-8f61-4d96-957e-14bd044e434c.png)
 <h3> As displayed in the picture with the teams sorted by number of games, it is beneficial to pick players on teams such as the Miami Heat and Houston Rockets. </h3>
 <body>
-<br>
 <h3> Project 2: Predicting GDP with Linear Regressions
 <br>
 <br> Another project I completed was in my Data Management & Visualization class. This was an interesting project because I worked in a group and we studied specific variables that went into a country's happiness level. With the significant variables, we were then able to construct a model that would allow us to forecast happiness for any country given their inputs. This model was a very good predictor, as it had an established R-square of 0.777. </h3>
